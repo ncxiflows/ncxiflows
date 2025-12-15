@@ -12,6 +12,7 @@ redirect_from:
 📚 Research Assistant Experience
 ------
 I have been working as a research assistant for Professor [Ruixue Jia](https://gps.ucsd.edu/faculty-directory/ruixue-jia.html) since July 2024.  
+ - Worked on an NBER Working Paper “Moral Regulation and Cultural Production: Evidence from Hollywood” (by Ruixue Jia, and David Strömberg, NBER WP No. 34539), and provided research assistance on additional ongoing projects.
 
 🥇 Honors and Awards  
 ------
