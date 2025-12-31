@@ -70,7 +70,7 @@ redirect_from:
 <p>
 <!--<center>-->
   <div id="clustrmaps-widget" style="width:2%">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HfdSVVyw1U-OquJhEe71o2rG6PB6FmanfiCPQNgL9v8"></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ujeAKR2j6TkeV18iJbCmTKXM236MTigzBgzAgJPZhIg&cl=ffffff&w=a"></script>
   </div> 
 <!--</center>-->
 </p>
