@@ -8,23 +8,13 @@ redirect_from:
 ---
 
 <p style="text-align: justify;">
-  Hello! I am an M.A. student in Social Policy at Renmin University of China. I obtain my bachelor‘s degree in University of Chinese Academy of Social Sciences.  
+  Hello! 天天开心！I'm real zhenglongcong.com
   <br>
-  My research belongs to Environmental Economics and Development Economics.  
-  <br><br>
-  <b>Environmental Economics</b>:  Climate adaptation, Pollution, Sustainable development, Health.  
-  <br>
-  <b>Urban Economics</b>: Sustainable urbanization, Subway, Commuting, Housing prices.
-  <br>
-  <b>Development economics</b>: Health, Education, Economic history, Human capital.  
-  <br><br>
-  Methodologically, I primarily use large, unique datasets for causal inference, supplemented by randomized controlled trial and structural modeling. In addition, I explore machine learning and artificial intelligence for decision support.
-  <br><br>
   Learn more from my <a href="https://Mucha-moment.github.io/files/CV.pdf">CV</a>. If you are interested in any aspect of my work, I would love to chat and collaborate. Please feel free to contact me via email: 
   <br>
-  <a href="mailto:zlcong426@gmail.com">zlcong426@gmail.com</a>
+  <a href="mailto:nichenxu@foxmail.com">nichenxu@foxmail.com</a>
   <br>
-  <a href="mailto:congzhenglong@ruc.edu.cn">congzhenglong@ruc.edu.cn</a>
+  <a href="mailto:nichenxu@ucass.edu.cn">nichenxu@ucass.edu.cn</a>
 </p>  
 
 🌟 Recent Research Highlights
